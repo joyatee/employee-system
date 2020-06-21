@@ -17,7 +17,7 @@
 </form>
 
 <br>
-<a href="newemployee"><h2>Add New Employee</h2></a>
+<a href="newemployee"><h2>Add New Employee to the organization</h2></a>
 <br>
 <table border="1">
 <tr>
